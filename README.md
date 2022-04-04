@@ -131,8 +131,7 @@
           </ figura >
           < div >
             < h3 >
-              Tapete
-            </ h3 >
+             s            </ h3 >
             < p >
               Tapete Pequeno.
             </ p >
